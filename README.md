@@ -1,4 +1,4 @@
-# 💱 多國匯率計算器 | Multi-Currency Exchange Calculator
+# 💱 多國匯率計算器 | Multi-Currency Exchange Calculator(適用手機板)
 
 ## 📌 功能簡介 | Features
 
